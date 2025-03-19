@@ -13,7 +13,7 @@
 #     stream_manager = StreamManager(input_media_source, zone_intrusion_points)
 #     stream_manager.process_video()
 #
-# 
+#
 # if __name__ == "__main__":
 #     main()
 
