@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Yolo models
+.yolov12x.pt
+.yolo11x.pt
+.yolov8x.pt
+.yolov6m.pt
+.yolov5x.pt
